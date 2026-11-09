@@ -41,6 +41,7 @@ const translations = {
   news1:'<a href="#paper-nexus">NexusQA</a>：利用多粒度时空证据实现有据可依的视频问答。<span class="news-venue">ACM MM 2026</span>',
   news2:'<a href="#paper-gre">GRE Suite</a>：通过结构化视觉推理进行图像地理定位。<span class="news-venue">NeurIPS 2025</span>',
   news3:'<a href="#paper-m4">M⁴Bench</a>：评测多模态模型对多幅图像的对比理解能力。<span class="news-venue">IJCAI 2025</span>',
+  news4:'<a href="#paper-mmad">MMAD</a>：结合视觉、音频与叙事上下文，生成无障碍电影音频描述。<span class="news-venue">LREC-COLING 2024</span>',
   papersHeading:'学术论文',downloadBib:'下载 BibTeX ↗',all:'全部论文',video:'视频与音频',image:'视觉推理',equalNote:'* 表示共同第一作者。',overview:'研究概述',projectLink:'项目主页 ↗',
   nexusDescription:'融合细粒度时空证据与多智能体协作，提升视频推理的视觉依据。',greDescription:'从图像中的视觉线索出发，通过结构化推理逐步确定地理位置。',m4Description:'评测多模态模型跨图像、跨领域和跨粒度的对齐与区分能力。',mmadDescription:'结合声音、人物与叙事上下文，为视障观众生成更丰富的电影音频描述。',
   nexusOverview:'NexusBench 以分层视频场景图为基础，检验模型能否识别支撑答案的正确对象、局部细节和时间片段。NexusScore 评估模型利用证据的能力；NexusQA 基线通过策略智能体与定位智能体协作，无需额外训练即可收集证据并完成推理。',
